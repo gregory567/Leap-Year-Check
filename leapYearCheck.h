@@ -1,0 +1,6 @@
+#ifndef LEAPYEARCHECK_H_INCLUDED
+#define LEAPYEARCHECK_H_INCLUDED
+
+bool leapYearCheck(int year);
+
+#endif // LEAPYEARCHECK_H_INCLUDED

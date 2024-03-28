@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1711617033 source:c:\users\hp\desktop\fh technikum\technische probleme lösen mit c\leap year check\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"numericCheck.h"
+	"charArrayToInt.h"
+	"leapYearCheck.h"
+
+1711616993 source:c:\users\hp\desktop\fh technikum\technische probleme lösen mit c\leap year check\chararraytoint.c
+
+1711616700 c:\users\hp\desktop\fh technikum\technische probleme lösen mit c\leap year check\numericcheck.h
+
+1711616783 c:\users\hp\desktop\fh technikum\technische probleme lösen mit c\leap year check\chararraytoint.h
+
+1711616856 c:\users\hp\desktop\fh technikum\technische probleme lösen mit c\leap year check\leapyearcheck.h
+
+1711617063 source:c:\users\hp\desktop\fh technikum\technische probleme lösen mit c\leap year check\leapyearcheck.c
+	<stdbool.h>
+
+1711617073 source:c:\users\hp\desktop\fh technikum\technische probleme lösen mit c\leap year check\numericcheck.c
+	<stdbool.h>
+
